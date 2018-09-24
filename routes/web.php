@@ -12,5 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
+});
+Route::get('/halamandua', function () {
+    return view('halamandua');
+});
+Route::get('/halamantiga', function () {
+    return view('halamantiga');
 });

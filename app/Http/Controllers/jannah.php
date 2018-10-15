@@ -17,4 +17,7 @@ class jannah extends Controller{
 	function halamantiga(){
 		return view('halamantiga');
 	}
+	function mahasiswa(){
+		return view('mahasiswa');
+	}
 }

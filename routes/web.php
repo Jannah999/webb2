@@ -18,4 +18,5 @@ Route::get('/', function () {
 Route::get('halaman/tambah', 'jannah@tambah');
 Route::resource('halaman','jannah');
 
-Route::get('mahasiswa', 'jannah@mahasiswa');
+Route::resource('mahasiswa', 'Mahasiswa');
+

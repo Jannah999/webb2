@@ -48,6 +48,9 @@
 			<li>
                 <a href="/mahasiswa">- Mahasiswa</a>
             </li>
+			<li>
+                <a href="/user">- User</a>
+            </li>
         </ul>
     </aside>
 

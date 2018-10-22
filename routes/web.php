@@ -19,4 +19,4 @@ Route::get('halaman/tambah', 'jannah@tambah');
 Route::resource('halaman','jannah');
 
 Route::resource('mahasiswa', 'Mahasiswa');
-
+Route::resource('user', 'User');

@@ -20,3 +20,4 @@ Route::resource('halaman','jannah');
 
 Route::resource('mahasiswa', 'Mahasiswa');
 Route::resource('user', 'User');
+Route::resource('view', 'View');

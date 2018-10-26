@@ -46,10 +46,13 @@
                 <a href="/halamantiga">- Sidebar Tiga</a>
             </li>
 			<li>
-                <a href="/mahasiswa">- Mahasiswa</a>
+                <a href="/mahasiswa">Mahasiswa</a>
             </li>
 			<li>
-                <a href="/user">- User</a>
+                <a href="/view">-View</a>
+            </li>
+			<li>
+                <a href="/user">User</a>
             </li>
         </ul>
     </aside>

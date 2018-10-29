@@ -49,10 +49,13 @@
                 <a href="/mahasiswa">Mahasiswa</a>
             </li>
 			<li>
-                <a href="/view">-View</a>
+                <a href="/mahasiswa/create">-Tambah</a>
             </li>
 			<li>
                 <a href="/user">User</a>
+            </li>
+			<li>
+                <a href="/user/create">-Tambah</a>
             </li>
         </ul>
     </aside>
